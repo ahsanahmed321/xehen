@@ -1,0 +1,15 @@
+.clientHolder {
+  padding: 2rem;
+}
+
+.avatarConfig {
+  border: 1px solid black;
+  width: 34px;
+  height: 34px;
+}
+
+@media (max-width: 650px) {
+  .clientHolder {
+    padding: 1rem;
+  }
+}
